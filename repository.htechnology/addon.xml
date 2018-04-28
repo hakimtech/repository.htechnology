@@ -12,7 +12,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Used For Kodi  Addon Developement</summary>
-		<description lang="en">This is a fantastic repo used for Kodi Addon Development</description>
+		<description lang="en">This is a fantastic repo Kodi Addon Development</description>
 		<genre>devtools,documentary,downloads,health,howto,livetv,movies,music,skin,sports,subscription,tech,tvshows,wizard,spanish,uk,usa</genre>
 	</extension>
 </addon>
